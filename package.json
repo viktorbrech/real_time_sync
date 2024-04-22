@@ -1,0 +1,11 @@
+{
+  "name": "hubspot_real_time_sync_project",
+  "version": "0.1.0",
+  "description": "Basic example of fetching external data in real time based on a CRM property value",
+  "scripts": {
+    "postinstall": "cd ./src/app/extensions/ && npm install && cd ../app.functions && npm install",
+    "build": "npm run build --prefix ./src/app/extensions/"
+  },
+  "author": "HubSpot",
+  "license": "MIT"
+}

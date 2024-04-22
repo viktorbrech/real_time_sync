@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "domainStatus": {
+      "file": "fetch_domain_status.js",
+      "secrets": []
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Domain Status Card",
+    "uid": "domain_status_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "Example.jsx"
+    },
+    "objectTypes": [
+      {
+        "name": "companies"
+      }
+    ]
+  }
+}
